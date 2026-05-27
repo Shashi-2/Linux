@@ -31,7 +31,7 @@ Learning linux for RHCSA
 <ul>
 <li><b>Everything is a file</b> :- In Linux all resources(hardware devices ,process ,data) are represented as files in a hierarchical file system ,making management consistent.</li>
 <li><b>Small,Single-purpose tool</b> :- Programs are designed to perform one task well,rather then being on one complex tasks or application.</li>
-<li><b>System COnfigration</b> :- Its data is stored in text.</li>
+<li><b>System Configration</b> :- Its data is stored in text.</li>
 <li><b>Avoid Captive UI</b> :- Allows Command-Line-Interface ,Automation,Scriptablity </li>
 <i>Captive UI</i>:- Program where user must interect only through the program interface, and cannot easily automate or combine it with other tools.
 </ul>
