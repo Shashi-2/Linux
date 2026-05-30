@@ -16,4 +16,9 @@ Roadmap
 12. Network Config Cmd
 13. Package Management Cmd(with Flatpak)
 14. Service Management Cmd
-15. 
+15. GUI to CLI and CLI to GUI(Temp and Permanent)
+16. Partition(Swap,LVM)
+17. Root Password reset
+18. Job Automation(at and cron)
+19. Network Time Protocol
+20. SELinux
