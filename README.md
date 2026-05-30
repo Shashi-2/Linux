@@ -12,7 +12,7 @@ Roadmap
 8. Permission (Basic,ACL,Special,Sudo,Umask)
 9. Backup with compression
 10. Search cmd(grep,find,locate)
-11. Links
+11. Links(Hard and Soft)
 12. Network Config Cmd
 13. Package Management Cmd(with Flatpak)
 14. Service Management Cmd
