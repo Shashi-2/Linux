@@ -1,3 +1,6 @@
 # Linux
-Learning linux for RHCSA
---> What is GNUGPL
+Learning linux for RHCE Automation
+1. Intro Ansible
+2. Implementing Playbook,Inventory(host)
+3. Mobules
+4. Variables,Facts
