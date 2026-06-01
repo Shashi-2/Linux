@@ -1,6 +1,6 @@
 # Linux Architecture
 
-![Archi_img](image.png)
+![Archi_img](Archi_img.png)
 
 ## 1. Hardware Layer
 
